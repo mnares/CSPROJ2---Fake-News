@@ -9,7 +9,7 @@
 		type: "basic",
 		title: "Fake News",
 		message: "",
-		iconUrl: "icons/logo128_fake.png",
+		iconUrl: "icons/logo128_fake.jpg",
 		buttons: [btn1, btn2]
 	};
 	

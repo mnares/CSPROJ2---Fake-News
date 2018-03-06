@@ -1,10 +1,10 @@
 {
 	"appName": {
-		"message": "Fake News Blocker"
+		"message": "Fake News Identifier"
 	},
 	
 	"appDesc": {
-		"message": "Get a notification when the page you're on has been known to publish fake news."
+		"message": "Identifies Fake News."
 	},
 	
 	"notAccurate": {
@@ -18,7 +18,7 @@
 	},
 	
 	"Attent": {
-		"message": "According to our data $site$ publishes fake new regularly, consider this before sharing this article or page.",
+		"message": "Warning! This site $site$ may contain false information.  ",
 		"description": "Full text that will display inside the notification.",
 		"placeholders": {
 			"site": {
