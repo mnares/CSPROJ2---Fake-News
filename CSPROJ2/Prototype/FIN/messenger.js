@@ -15,8 +15,8 @@
 	
 	function btnClick(notid, btninx) {
 		if (btninx === 0) {
-			window.open("https://github.com/Fdebijl/FakeNewsBlocker/issues");
 			chrome.notifications.clear(notid);
+			confirm("Are you sure")
 		} else {
 			chrome.notifications.clear(notid);
 		}
