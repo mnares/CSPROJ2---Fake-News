@@ -1,4 +1,4 @@
-gmanetwork.com,1,https://en.wikipedia.org/wiki/List_of_fake_news_websites
+metro.co.uk,1,https://en.wikipedia.org/wiki/List_of_fake_news_websites
 ABCnews.com.co,1,https://en.wikipedia.org/wiki/List_of_fake_news_websites
 Bloomberg.ma,1,https://en.wikipedia.org/wiki/List_of_fake_news_websites
 DrudgeReport.com.co,1,https://en.wikipedia.org/wiki/List_of_fake_news_websites
