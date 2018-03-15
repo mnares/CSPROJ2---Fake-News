@@ -1,11 +1,6 @@
-# CSPROJ2---Fake-News
-
-==Project Title==
 
 <center><h1>Identifying Fake News In Social Media Sites</h1></center>
-<center>https://imgur.com/VP9qKl5.png</center>
-
-=== Project Professor ===
+Project Professor 
 
 <center>	  
 <table style = "width: 70%" align="center">
@@ -28,7 +23,7 @@
 </center>
 <br>
 
-=== Project Team Members ===
+Project Team Members 
 <br> 
 <table style="width:70%" align="center">
   <tr bgcolor="#3498DB">
@@ -58,7 +53,7 @@
 </table>
 <br>
 
-=== Project Adviser ===
+Project Adviser
 
 <center>	  
 <table style = "width: 70%" align="center">
