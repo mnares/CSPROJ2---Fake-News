@@ -7,7 +7,7 @@
 	btn2.title = chrome.i18n.getMessage("Accurate");
 	var opt = {
 		type: "basic",
-		title: "Fake News",
+		title: "Fake News Identifier",
 		message: "",
 		iconUrl: "icons/logo128_fake.jpg",
 		buttons: [btn1, btn2]
