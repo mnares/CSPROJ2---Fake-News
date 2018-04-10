@@ -1,0 +1,30 @@
+{
+	"appName": {
+		"message": "Fake News Identifier"
+	},
+	
+	"appDesc": {
+		"message": "Identifies Fake News."
+	},
+	
+	"notAccurate": {
+		"message": "Enter",
+		"description": "Button - First option in notification, user will click this if inclusion of this site is inaccurate or unjustified."
+	},
+	
+	"Accurate": {
+		"message": "Report This Page",
+		"description": "Button - Should indicate that the notification will be dismissed or that the site is indeed fake. Use your best judgement and humor."
+	},
+	
+	"Attent": {
+		"message": "Warning! This site $site$ may contain false information.  ",
+		"description": "Full text that will display inside the notification.",
+		"placeholders": {
+			"site": {
+				"content": "$1",
+				"example": "this site"
+			}
+		}
+	}
+}

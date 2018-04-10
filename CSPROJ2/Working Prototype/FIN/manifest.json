@@ -1,0 +1,46 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+
+  "name": "Fake News Identifier",
+  "short_name": "FNI",
+  "description": "This Extension Identifies Fake News Links",
+  "default_locale": "en",
+  "version": "1.0",
+  
+  "icons": {
+  	"64": "icons/proof.png"
+  },
+
+  "browser_action": {
+    "default_icon": "icons/proof.png",
+	"default_popup": "popup.html"
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["blocker.js"]
+    }
+  ],
+  
+  "background": {
+      "scripts": ["messenger.js"],
+	  "css": ["modal.css"],
+	  "html" : ["modal.html"]
+  },
+  
+  "permissions": [
+	"notifications",
+	"tabs",
+	"activeTab",
+	"storage"
+  ],
+  
+	
+	
+  "web_accessible_resources": [
+	"icons/logo128_fake.jpg"
+  ]
+}
