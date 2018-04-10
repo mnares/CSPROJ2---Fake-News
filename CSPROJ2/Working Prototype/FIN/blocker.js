@@ -42,7 +42,7 @@
 	// Retrieve all the lists as set in options. If none are set, load the default list from our Github repo.
 	function getLists() {
 		chrome.storage.sync.get({
-			lists: "https://rawgit.com/mnares/CSPROJ2---Fake-News/master/CSPROJ2/Prototype/fakenews.txt",
+			lists: "https://rawgit.com/mnares/CSPROJ2---Fake-News/master/CSPROJ2/Beta%20Prototype/fakenews.txt",
 			blacklist: false,
 			types: [1,2],
 			fullblock: false
