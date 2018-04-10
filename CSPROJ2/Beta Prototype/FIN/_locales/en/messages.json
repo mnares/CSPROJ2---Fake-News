@@ -8,13 +8,13 @@
 	},
 	
 	"notAccurate": {
-		"message": "Enter",
-		"description": "Button - First option in notification, user will click this if inclusion of this site is inaccurate or unjustified."
+		"message": "Block",
+		"description": "Block this page?"
 	},
 	
 	"Accurate": {
-		"message": "Report This Page",
-		"description": "Button - Should indicate that the notification will be dismissed or that the site is indeed fake. Use your best judgement and humor."
+		"message": "Report",
+		"description": "Report this page?"
 	},
 	
 	"Attent": {
