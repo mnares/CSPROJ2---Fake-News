@@ -16,7 +16,7 @@
 	function btnClick(notid, btninx) {
 		if (btninx === 0) {
 			chrome.notifications.clear(notid);
-			confirm("Are you sure")
+			window.navigate("report.html");
 		} else {
 			chrome.notifications.clear(notid);
 		}
